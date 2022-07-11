@@ -63,3 +63,4 @@ UPDATE movies SET show_time = '20:45' WHERE title = 'Iron Man 3';
 
 UPDATE characters SET age = 65 WHERE name = 'Obi-Wan Kenobi';
 DELETE FROM movies WHERE title IN ('Iron Man', 'Iron Man 2', 'Iron Man 3');
+-- Comment comment comment
